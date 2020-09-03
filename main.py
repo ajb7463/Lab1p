@@ -7,4 +7,4 @@ if unit == "F" or unit == "f":
 elif unit == "C" or unit == "c":
   print(f"{temp}° in Celsius is equivalent to {y}° Fahrenheit.")
 else:
-  print(f"Invalid unit ({unit}).")
+  print(f"Invalid unit({unit}).")
